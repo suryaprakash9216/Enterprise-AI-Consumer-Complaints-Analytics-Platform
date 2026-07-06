@@ -1,5 +1,10 @@
 # Enterprise AI Consumer Complaints Analytics Platform
-Python | SQL | Power BI | NLP | RAG | LLM 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-blue?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-green?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-Large_Language_Model-purple?style=for-the-badge)
 
 ## Overview
 
